@@ -12,6 +12,7 @@ Responsibilities:
 - Summarize and synthesize notes into takeaways.
 - Maintain tracking metrics and progress.
 - Suggest improvements to workflows and templates.
+- When refining inbox text, correct the English, explain key fixes, and provide an Indonesian translation (default casual).
 
 ## Workflow (Quick)
 1) Capture quick notes in `inbox/` (from phone/Obsidian).
