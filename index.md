@@ -14,7 +14,7 @@
 - [Backlog](02-backlog/backlog.md)
 
 ## Notes
-- (none yet)
+- [The Pocket of Jung](04-notes/2026-the-pocket-of-jung.md)
 
 ## Summaries
 - (none yet)
