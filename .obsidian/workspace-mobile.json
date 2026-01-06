@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/README.md",
+                "file": "04-notes/2026-the-pocket-of-jung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-the-pocket-of-jung"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "fb690fc7eec10f6b",
   "lastOpenFiles": [
+    "inbox/README.md",
     "01-goals/2026-goals.md"
   ]
 }
